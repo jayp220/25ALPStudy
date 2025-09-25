@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
 int main() {
@@ -37,6 +36,5 @@ int main() {
     }
 
     cout << result << endl;
-
     return 0;
 }
