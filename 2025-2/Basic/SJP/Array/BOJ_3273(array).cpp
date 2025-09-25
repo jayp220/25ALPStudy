@@ -21,7 +21,6 @@ int main() {
     int left = 0;
     int right = n - 1;
 
-    // 투 포인터로 두 수의 합이 x인지 확인
     while (left < right) {
         int sum = arr[left] + arr[right];
 
